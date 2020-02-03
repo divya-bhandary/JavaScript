@@ -1,0 +1,25 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "JavaScript"]
+	url = https://github.com/divya-bhandary/JavaScript
+	fetch = +refs/heads/*:refs/remotes/JavaScript/*
+[remote "Javascript"]
+	url = https://github.com/divya-bhandary/JavaScript
+	fetch = +refs/heads/*:refs/remotes/Javascript/*
+[remote "JavaScript1"]
+	url = https://github.com/divya-bhandary/JavaScript.git
+	fetch = +refs/heads/*:refs/remotes/JavaScript1/*
+[remote "Javascript2"]
+	url = git remote add origin git@github.com:divya-bhandary/JavaScript.git
+	fetch = +refs/heads/*:refs/remotes/Javascript2/*
+[remote "JS1"]
+	url = https://github.com/divya-bhandary/JavaScript.git
+	fetch = +refs/heads/*:refs/remotes/JS1/*
+[gui]
+	wmstate = normal
+	geometry = 893x435+6+156 175 196
